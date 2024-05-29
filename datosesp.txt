@@ -1,6 +1,3 @@
-Claro, aquí tienes la lista con la primera letra de cada palabra en minúsculas:
-
-```
 abandono	-3
 abatimiento	-2
 aburrimiento	-3
@@ -177,4 +174,3 @@ triunfo	1
 tristeza	-3
 valentía	2
 vergüenza	-3
-```
